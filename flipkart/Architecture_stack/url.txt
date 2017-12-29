@@ -1,0 +1,11 @@
+https://www.slideshare.net/sids/how-flipkart-scales-php/5-Flipkartcoms_Architecture_Session_Database_Store
+
+https://www.slideshare.net/slashn/slash-n-tech-talk-track-2-website-architecturemistakes-learnings-siddhartha-reddy
+
+https://www.slideshare.net/regunathbalasubramanian/building-the-flipkart-phantom
+
+https://www.slideshare.net/directi/building-a-scalable-architecture-for-web-apps
+
+Building the Flipkart phantom
+https://www.slideshare.net/regunathbalasubramanian/building-the-flipkart-phantom
+

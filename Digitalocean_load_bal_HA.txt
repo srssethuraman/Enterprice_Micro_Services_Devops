@@ -1,0 +1,17 @@
+Horizontally Scaling PHP Applications: A Practical Overview
+https://blog.digitalocean.com/horizontally-scaling-php-applications/
+
+How To Use HAProxy As A Layer 4 Load Balancer for WordPress Application Servers on Ubuntu 14.04
+
+https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-as-a-layer-4-load-balancer-for-wordpress-application-servers-on-ubuntu-14-04
+
+
+How To Set Up a Remote Database to Optimize Site Performance with MySQL
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-remote-database-to-optimize-site-performance-with-mysql
+
+An Introduction to HAProxy and Load Balancing Concepts
+https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts
+
+Load Balancing vs High Availability
+https://www.youtube.com/watch?v=kTTxL8HIEe8
